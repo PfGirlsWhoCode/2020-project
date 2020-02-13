@@ -12,3 +12,18 @@ function loadPage()
 {
     window.location.href = "page1.html";
 }
+
+function loadFail1()
+{
+    window.location.href = "fail.html";
+}
+
+function loadCaeli2()
+{
+    window.location.href = "Caeli2.html";
+}
+
+function loadWasteland1()
+{
+    window.location.href = "Wasteland1.html";
+}
