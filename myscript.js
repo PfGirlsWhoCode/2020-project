@@ -27,3 +27,8 @@ function loadWasteland1()
 {
     window.location.href = "Wasteland1.html";
 }
+
+function loadCaeliThreat()
+{
+    window.location.href = "CaeliThreat.html"
+}
