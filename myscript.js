@@ -10,7 +10,7 @@ function init()
 //TODO Add param. Add event listener to button
 function loadPage()
 {
-    window.location.href = "page1.html";
+    window.location.href = "Caeli1.html";
 }
 
 function loadFail1()
