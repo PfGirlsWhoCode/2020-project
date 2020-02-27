@@ -32,3 +32,18 @@ function loadCaeliThreat()
 {
     window.location.href = "CaeliThreat.html"
 }
+
+function loadTellFail()
+{
+    window.location.href = "CaeliTellFail.html"
+}
+
+function loadTellPass()
+{
+    window.location.href = "CaeliTellPass.html"
+}
+
+function loadCaeliTell()
+{
+    window.location.href = "CaeliTell.html"
+}
