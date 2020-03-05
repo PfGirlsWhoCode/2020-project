@@ -47,3 +47,32 @@ function loadCaeliTell()
 {
     window.location.href = "CaeliTell.html"
 }
+
+function loadCaeliLife()
+{
+    window.location.href = "CaeliLife.html"
+}
+
+function loadCaeliHelp()
+{
+    window.location.href = "CaeliHelp.html"
+}
+function loadCaeliFix()
+{
+    window.location.href = "CaeliFix.html"
+}
+
+function loadCaeliCarl()
+{
+    window.location.href = "CaeliCarl.html"
+}
+
+function loadCaeliAgnes()
+{
+    window.location.href = "CaeliAgnes.html"
+}
+
+function loadCaeliKatherine()
+{
+    window.location.href = "CaeliKatherine.html"
+}
