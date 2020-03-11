@@ -76,3 +76,8 @@ function loadCaeliKatherine()
 {
     window.location.href = "CaeliKatherine.html"
 }
+
+function loadCaeliLie()
+{
+    window.location.href = "CaeliLie.html"
+}
