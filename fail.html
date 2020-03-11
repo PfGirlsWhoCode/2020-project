@@ -1,17 +1,21 @@
 <html> 
   <head>
       <!--TODO Add CSS file -->
+    <link rel="stylesheet" href="styleSheet.css">
     <script src="myscript.js"></script>
     <title>Failure</title> 
   </head>
 
-  <body onload="init()"> 
-    <h1></h1> 
-    <img src="" alt="tree"/>
-    <p>Time seems to go in slow motion while flying by at the same time. You think of how you tried to save the world but it was all for nothing. Is this end inevitable? You don’t bother using the oxygen tanks you have for you do not want to live longer than everyone else. You knew this was going to happen but it is still quite sad thinking of how if you just changed that one choice everything could be saved. If only you had multiple tries to possibly get it right. Breathing slowly gets more and more difficult. The oxygen has left you. You start seeing stars before finally blacking out.
-        The end.
-        </p>
-    <button onclick="loadPage()">Restart</button>
-    <button onclick="loadPage()">Quit</button>
+  <!--<body onload="init()"> -->
+  <body>
+    <h1 id="Fail1Head">You failed.</h1> 
+    <img src="images/Fail_page_2_tree_try.jpg" alt="tree"/>
+    <p id="Fail1Text">Time seems to go in slow motion while flying by at the same time. You think of how you tried to save the world but it was all for nothing. Is this end inevitable? You don’t bother using the oxygen tanks you have for you do not want to live longer than everyone else. You knew this was going to happen but it is still quite sad thinking of how if you just changed that one choice everything could be saved. If only you had multiple tries to possibly get it right. Breathing slowly gets more and more difficult. The oxygen has left you. You start seeing stars before finally blacking out.
+            The end.
+
+            Would you like to go back to the last autosave?
+            </p>
+    <button onclick="loadPage()">Yes.</button>
+    <button onclick="loadPage()">No.</button>
   </body>
 </html>
